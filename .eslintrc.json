@@ -25,6 +25,7 @@
   "extends": [
     "plugin:@typescript-eslint/recommended-requiring-type-checking",
     "plugin:testing-library/react",
+    "plugin:storybook/recommended",
     "@mark-small/eslint-config-marksmall"
   ],
   "rules": {}
