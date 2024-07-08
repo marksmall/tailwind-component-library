@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-component-library",
+  "name": "@mark-small/tailwind-component-library",
   "version": "1.0.0",
   "description": "A tailwindcss based component react library.",
   "type": "module",
