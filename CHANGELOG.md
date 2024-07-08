@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/marksmall/tailwind-component-library/compare/v1.0.0...v1.0.1) (2024-07-08)
+
+
+### Bug Fixes
+
+* **devops:** Enaqble publishing to NPM registry ([dd7b89b](https://github.com/marksmall/tailwind-component-library/commit/dd7b89bf1c00307bf3145fa240f6cbe914ad3b24))
+
 # 1.0.0 (2024-07-08)
 
 

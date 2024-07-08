@@ -1,6 +1,6 @@
 {
   "name": "@mark-small/tailwind-component-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tailwindcss based component react library.",
   "type": "module",
   "main": "./dist/index.cjs.js",
